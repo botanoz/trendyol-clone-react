@@ -1,3 +1,4 @@
+import LoginSignup from "./pages/LoginSignup";
 import ProductDetail from "./pages/ProductDetail";
 
 const { createBrowserRouter } = require("react-router-dom");
@@ -16,6 +17,10 @@ const router = createBrowserRouter([{
         {
             path:"/product-detail",
             element:<ProductDetail/>
+        },
+        {
+            path:"/giris",
+            element:<LoginSignup/>
         }
     ]
 },
