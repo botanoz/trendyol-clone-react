@@ -1,0 +1,13 @@
+[
+    { "name": "Samsung", "logo": "/images/brands/samsung.png" },
+    { "name": "Xiaomi", "logo": "/images/brands/xiaomi.png" },
+    { "name": "Karaca", "logo": "/images/brands/karaca.png" },
+    { "name": "Bosch", "logo": "/images/brands/bosch.png" },
+    { "name": "Vestel", "logo": "/images/brands/vestel.png" },
+    { "name": "KUMTEL", "logo": "/images/brands/kumtel.png" },
+    { "name": "Stradivarius", "logo": "/images/brands/stradivarius.png" },
+    { "name": "DeFacto", "logo": "/images/brands/defacto.png" },
+    { "name": "adidas", "logo": "/images/brands/adidas.png" },
+    { "name": "Arçelik", "logo": "/images/brands/arcelik.png" },
+    { "name": "Baya", "logo": "/images/brands/baya.png" }
+  ]

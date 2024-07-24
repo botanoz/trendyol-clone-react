@@ -1,0 +1,408 @@
+[
+    {
+      "name": "Kadın",
+      "subCategories": [
+        {
+          "name": "Giyim",
+          "items": ["Elbise", "Tişört", "Gömlek", "Kot Pantolon", "Kot Ceket", "Etek", "Bluz", "Mont", "Kaban", "Trençkot"]
+        },
+        {
+          "name": "Ayakkabı",
+          "items": ["Topuklu Ayakkabı", "Sneaker", "Günlük Ayakkabı", "Bot", "Çizme", "Sandalet", "Babet", "Spor Ayakkabı", "Terlik", "Platform Ayakkabı"]
+        },
+        {
+          "name": "Aksesuar & Çanta",
+          "items": ["Çanta", "Saat", "Takı", "Şal", "Cüzdan", "Gözlük", "Şapka", "Kemer", "Bileklik", "Kolye"]
+        },
+        {
+          "name": "İç Giyim",
+          "items": ["Pijama Takımı", "Gecelik", "Sütyen", "İç Çamaşırı Takımları", "Atlet", "Külot", "Spor Sütyeni", "Korse", "Jartiyer", "Gelin İç Giyim"]
+        },
+        {
+          "name": "Lüks & Designer",
+          "items": ["Lüks Çanta", "Lüks Giyim", "Lüks Ayakkabı", "Lüks Takı", "Lüks Saat", "Lüks Cüzdan", "Lüks Gözlük", "Lüks Şapka", "Lüks Şal", "Lüks Parfüm"]
+        },
+        {
+          "name": "Kozmetik",
+          "items": ["Parfüm", "Göz Makyajı", "Cilt Bakım", "Saç Bakımı", "Makyaj", "Tırnak Bakımı", "Cilt Maskesi", "Vücut Losyonu", "Cilt Temizleyici", "Güneş Kremi"]
+        },
+        {
+          "name": "Spor Giyim",
+          "items": ["Eşofman Takımı", "Spor Sütyeni", "Spor Taytı", "Spor Tişört", "Spor Ayakkabı", "Spor Ceket", "Spor Şort", "Spor Etek", "Yoga Kıyafetleri", "Koşu Kıyafetleri"]
+        },
+        {
+          "name": "Dış Giyim",
+          "items": ["Mont", "Kaban", "Trençkot", "Yağmurluk", "Şişme Mont", "Yelek", "Palto", "Kaşe Kaban", "Fermuarlı Ceket", "Deri Ceket"]
+        },
+        {
+          "name": "Gelinlik & Abiye",
+          "items": ["Gelinlik", "Abiye Elbise", "Nişan Elbisesi", "Kına Elbisesi", "Mezuniyet Elbisesi", "Düğün Aksesuarları", "Gece Elbisesi", "Kokteyl Elbisesi", "Balık Abiye", "Tulum"]
+        },
+        {
+          "name": "Hamile Giyim",
+          "items": ["Hamile Elbisesi", "Hamile Tişörtü", "Hamile Pantolonu", "Hamile Geceliği", "Emzirme Sütyeni", "Hamile Eteği", "Hamile Taytı", "Hamile İç Çamaşırı", "Hamile Bluzu", "Hamile Gömleği"]
+        }
+      ]
+    },
+    {
+      "name": "Erkek",
+      "subCategories": [
+        {
+          "name": "Giyim",
+          "items": ["Tişört", "Şort", "Gömlek", "Eşofman", "Pantolon", "Ceket", "Kazak", "Mont", "Takım Elbise", "Kaban"]
+        },
+        {
+          "name": "Ayakkabı",
+          "items": ["Spor Ayakkabı", "Günlük Ayakkabı", "Klasik Ayakkabı", "Bot", "Terlik", "Sneaker", "Mokasen", "Sandal", "Yürüyüş Ayakkabısı", "Çizme"]
+        },
+        {
+          "name": "Kişisel Bakım",
+          "items": ["Parfüm", "Cinsel Sağlık", "Tıraş Ürünleri", "Saç Bakım", "Cilt Bakımı", "Diş Bakımı", "Vücut Bakımı", "El Bakımı", "Ayak Bakımı", "Saç Şekillendirici"]
+        },
+        {
+          "name": "Aksesuar",
+          "items": ["Saat", "Güneş Gözlüğü", "Cüzdan", "Kemer", "Çanta", "Şapka", "Atkı", "Eldiven", "Kol Düğmesi", "Kravat"]
+        },
+        {
+          "name": "Spor Giyim",
+          "items": ["Eşofman", "Tişört", "Şort", "Spor Ayakkabı", "Spor Çorap", "Sweatshirt", "Koşu Kıyafetleri", "Fitness Giyim", "Yoga Kıyafetleri", "Spor Ceket"]
+        },
+        {
+          "name": "Dış Giyim",
+          "items": ["Mont", "Kaban", "Trençkot", "Yağmurluk", "Şişme Mont", "Yelek", "Palto", "Deri Ceket", "Fermuarlı Ceket", "Parka"]
+        },
+        {
+          "name": "İç Giyim",
+          "items": ["Boxer", "Atlet", "Pijama Takımı", "Termal İçlik", "Gecelik", "Çorap", "Fanila", "Sütyen", "Külot", "Rahat İç Çamaşırı"]
+        },
+        {
+          "name": "Takım Elbise & Gömlek",
+          "items": ["Takım Elbise", "Gömlek", "Kravat", "Kol Düğmesi", "Papyon", "Yelek", "Ceket", "Pantolon", "Mendil", "Damatlık"]
+        },
+        {
+          "name": "Lüks & Designer",
+          "items": ["Lüks Saat", "Lüks Ayakkabı", "Lüks Ceket", "Lüks Gömlek", "Lüks Cüzdan", "Lüks Parfüm", "Lüks Kravat", "Lüks Çanta", "Lüks Gözlük", "Lüks Şapka"]
+        },
+        {
+          "name": "Elektronik & Aksesuar",
+          "items": ["Akıllı Saat", "Kulaklık", "Powerbank", "Telefon Kılıfı", "Şarj Cihazı", "Bluetooth Hoparlör", "Laptop Çantası", "Mouse", "Klavye", "USB Bellek"]
+        }
+      ]
+    },
+    {
+      "name": "Anne & Çocuk",
+      "subCategories": [
+        {
+          "name": "Bebek",
+          "items": ["Bebek Takımları", "Hastane Çıkışı", "Bebek Bezi", "Bebek Maması", "Bebek Arabası", "Bebek Bakım Ürünleri", "Bebek Oyuncakları", "Bebek Kıyafetleri", "Bebek Uyku Tulumu", "Bebek Banyo Ürünleri"]
+        },
+        {
+          "name": "Kız Çocuk",
+          "items": ["Elbise", "Tişört", "Eşofman", "Ayakkabı", "Etek", "Mont", "Gömlek", "Kazak", "Pantolon", "Çorap"]
+        },
+        {
+          "name": "Erkek Çocuk",
+          "items": ["Tişört", "Şort", "Eşofman", "Ayakkabı", "Pantolon", "Mont", "Gömlek", "Kazak", "Çorap", "Yelek"]
+        },
+        {
+          "name": "Oyun & Oyuncak",
+          "items": ["Oyuncak Bebek", "Lego", "Araba", "Puzzle", "Eğitici Oyuncak", "Müzik Aletleri", "Masa Oyunları", "Yapboz", "Peluş Oyuncak", "Oyun Hamuru"]
+        },
+        {
+          "name": "Beslenme & Emzirme",
+          "items": ["Biberon", "Emzik", "Mama Sandalyesi", "Göğüs Pompası", "Emzirme Önlüğü", "Bebek Mamaları", "Beslenme Çantası", "Termos", "Suluk", "Mama Kaşığı"]
+        },
+        {
+          "name": "Bebek Odası",
+          "items": ["Beşik", "Karyola", "Uyku Seti", "Bebek Yastığı", "Bebek Battaniyesi", "Dolap", "Şifonyer", "Gardırop", "Bebek Halısı", "Bebek Mobilyası"]
+        },
+        {
+          "name": "Güvenlik & Sağlık",
+          "items": ["Bebek Monitörü", "Güvenlik Kapısı", "Priz Koruyucu", "Köşe Koruyucu", "Ateş Ölçer", "İlk Yardım Seti", "Bebek Telsizi", "Bebek Güvenlik Aynası", "Bebek Yürüteci", "Güneş Kremi"]
+        },
+        {
+          "name": "Taşıma & Seyahat",
+          "items": ["Bebek Arabası", "Oto Koltuğu", "Kanguru", "Portbebe", "Bebek Çantası", "Bebek Puseti", "Bebek Yatağı", "Bebek Seyahat Yastığı", "Bebek Seyahat Seti", "Bebek Taşıyıcı"]
+        },
+        {
+          "name": "Giyim & Ayakkabı",
+          "items": ["Bebek Ayakkabısı", "Bebek Çorapları", "Bebek Eldivenleri", "Bebek Şapkaları", "Bebek Tulumları", "Bebek Etekleri", "Bebek Bluzları", "Bebek Patikleri", "Bebek Hırkaları", "Bebek Yelekleri"]
+        },
+        {
+          "name": "Oyun Alanı",
+          "items": ["Oyun Parkı", "Oyun Halısı", "Oyun Çadırı", "Oyun Evi", "Oyun Havuzu", "Oyun Topları", "Zıpzıp", "Salıncak", "Kaydırak", "Trambolin"]
+        }
+      ]
+    },
+    {
+      "name": "Ev & Yaşam",
+      "subCategories": [
+        {
+          "name": "Sofra & Mutfak",
+          "items": ["Yemek Takımı", "Çatal Kaşık Bıçak", "Bardak", "Tencere Tava", "Mutfak Aletleri", "Mutfak Tekstili", "Çaydanlık", "Su Isıtıcı", "Kahve Makinesi", "Mikser"]
+        },
+        {
+          "name": "Ev Tekstili",
+          "items": ["Nevresim Takımı", "Yatak Örtüsü", "Havlu", "Perde", "Masa Örtüsü", "Battaniye", "Yastık", "Halı", "Yorgan", "Koltuk Örtüsü"]
+        },
+        {
+          "name": "Dekorasyon",
+          "items": ["Vazo", "Tablo", "Mum", "Dekoratif Yastık", "Duvar Süsü", "Çiçek", "Ayna", "Çerçeve", "Biblo", "Abajur"]
+        },
+        {
+          "name": "Aydınlatma",
+          "items": ["Avize", "Lambader", "Masa Lambası", "Tavan Lambası", "Duvar Lambası", "Gece Lambası", "Şerit Led", "Bahçe Aydınlatması", "Sarkıt Lamba", "Projektör"]
+        },
+        {
+          "name": "Banyo",
+          "items": ["Banyo Seti", "Duş Perdesi", "Banyo Paspası", "Havlu Askısı", "Banyo Dolabı", "Sabunluk", "Diş Fırçalık", "Çöp Kovası", "Tuvalet Fırçası", "Ayna"]
+        },
+        {
+          "name": "Mobilya",
+          "items": ["Koltuk", "Sandalye", "Masa", "Sehpa", "Dolap", "Gardırop", "Raf", "Televizyon Ünitesi", "Yatak", "Kitaplık"]
+        },
+        {
+          "name": "Ev Elektroniği",
+          "items": ["Televizyon", "Ses Sistemi", "DVD Oynatıcı", "Ev Sinema Sistemi", "Klima", "Vantilatör", "Isıtıcı", "Elektrikli Süpürge", "Buharlı Temizleyici", "Hava Temizleyici"]
+        },
+        {
+          "name": "Bahçe & Balkon",
+          "items": ["Bahçe Mobilyası", "Balkon Mobilyası", "Barbekü", "Bahçe Aydınlatması", "Çim Biçme Makinesi", "Bahçe Dekorasyonu", "Bahçe Aletleri", "Çiçek Saksısı", "Şezlong", "Salıncak"]
+        },
+        {
+          "name": "Ev Organizasyonu",
+          "items": ["Düzenleyici Kutular", "Askılar", "Çamaşır Sepeti", "Ayakkabılık", "Dolap Düzenleyici", "Kozmetik Düzenleyici", "Mutfak Düzenleyici", "Ofis Düzenleyici", "Banyo Düzenleyici", "Depolama Kutuları"]
+        },
+        {
+          "name": "Kırtasiye & Ofis",
+          "items": ["Kalem", "Defter", "Dosya", "Ajanda", "Post-it", "Zımba", "Makas", "Yapışkan Bant", "Silgi", "Kalemtraş"]
+        }
+      ]
+    },
+    {
+      "name": "Süpermarket",
+      "subCategories": [
+        {
+          "name": "Temel Gıda",
+          "items": ["Bakliyat", "Makarna", "Sıvı Yağ", "Un", "Şeker", "Tuz", "Pirinç", "Bulgur", "Mercimek", "Nohut"]
+        },
+        {
+          "name": "İçecek",
+          "items": ["Çay", "Kahve", "Meyve Suyu", "Gazlı İçecekler", "Su", "Enerji İçecekleri", "Soda", "Bira", "Şarap", "Süt"]
+        },
+        {
+          "name": "Atıştırmalık",
+          "items": ["Cips", "Çikolata", "Bisküvi", "Kraker", "Kuruyemiş", "Gofret", "Jelibon", "Çubuk Kraker", "Mısır Patlağı", "Kurabiye"]
+        },
+        {
+          "name": "Süt & Kahvaltılık",
+          "items": ["Süt", "Peynir", "Yoğurt", "Tereyağı", "Zeytin", "Bal", "Reçel", "Krem Peynir", "Süt Ürünleri", "Yumurta"]
+        },
+        {
+          "name": "Et & Balık",
+          "items": ["Kırmızı Et", "Beyaz Et", "Balık", "Sucuk", "Salam", "Sosis", "Kıyma", "Bonfile", "Tavuk Göğsü", "Somon"]
+        },
+        {
+          "name": "Meyve & Sebze",
+          "items": ["Elma", "Muz", "Portakal", "Domates", "Salatalık", "Patates", "Soğan", "Biber", "Limon", "Çilek"]
+        },
+        {
+          "name": "Dondurulmuş Gıda",
+          "items": ["Dondurulmuş Pizza", "Dondurulmuş Sebze", "Dondurulmuş Meyve", "Dondurulmuş Et", "Dondurulmuş Deniz Ürünleri", "Dondurma", "Dondurulmuş Patates", "Dondurulmuş Börek", "Dondurulmuş Çorba", "Dondurulmuş Tatlı"]
+        },
+        {
+          "name": "Bebek Maması & Bezi",
+          "items": ["Bebek Maması", "Bebek Bezi", "Islak Mendil", "Bebek Bisküvisi", "Bebek Sütü", "Bebek Yağı", "Bebek Pudrası", "Bebek Şampuanı", "Bebek Losyonu", "Bebek Sabunu"]
+        },
+        {
+          "name": "Temizlik & Hijyen",
+          "items": ["Çamaşır Deterjanı", "Bulaşık Deterjanı", "Yüzey Temizleyici", "Cam Temizleyici", "Banyo Temizleyici", "Tuvalet Kağıdı", "Kağıt Havlu", "Sıvı Sabun", "Hijyenik Ped", "Ağız Bakım Ürünleri"]
+        },
+        {
+          "name": "Sağlık & Bakım",
+          "items": ["Vitamin", "Mineral", "Ağrı Kesici", "Grip İlacı", "Cilt Bakım Ürünleri", "Saç Bakım Ürünleri", "Tırnak Bakım Ürünleri", "Güneş Kremi", "Göz Bakım Ürünleri", "El Bakım Ürünleri"]
+        }
+      ]
+    },
+    {
+      "name": "Kozmetik",
+      "subCategories": [
+        {
+          "name": "Makyaj",
+          "items": ["Fondöten", "Ruj", "Göz Farı", "Allık", "Maskara", "Eyeliner", "BB Krem", "CC Krem", "Kapatıcı", "Aydınlatıcı"]
+        },
+        {
+          "name": "Cilt Bakımı",
+          "items": ["Nemlendirici", "Güneş Kremi", "Yüz Maskesi", "Serum", "Göz Kremi", "Cilt Temizleyici", "Peeling", "Gece Kremi", "Tonik", "Leke Kremi"]
+        },
+        {
+          "name": "Saç Bakımı",
+          "items": ["Şampuan", "Saç Kremi", "Saç Maskesi", "Saç Serumu", "Saç Spreyi", "Saç Köpüğü", "Saç Yağı", "Saç Toniği", "Kepek Şampuanı", "Saç Boyası"]
+        },
+        {
+          "name": "Parfüm",
+          "items": ["Kadın Parfümü", "Erkek Parfümü", "Vücut Spreyi", "Deodorant", "Roll-on", "Aftershave", "Kolonya", "Oda Kokusu", "Aromaterapi Yağı", "Oda Spreyi"]
+        },
+        {
+          "name": "Tırnak Bakımı",
+          "items": ["Oje", "Aseton", "Tırnak Bakım Yağı", "Tırnak Güçlendirici", "Tırnak Makası", "Tırnak Törpüsü", "Tırnak Cilası", "Tırnak Besleyici", "Oje Kurutucu", "Tırnak Sanatı"]
+        },
+        {
+          "name": "Ağız Bakımı",
+          "items": ["Diş Macunu", "Diş Fırçası", "Ağız Gargarası", "Diş İpi", "Diş Beyazlatıcı", "Diş Fırçası Başlığı", "Diş Eti Bakımı", "Diş Teli Temizleyici", "Ağız Spreyi", "Diş Fırçalama Köpüğü"]
+        },
+        {
+          "name": "Göz Makyajı",
+          "items": ["Göz Farı", "Maskara", "Eyeliner", "Göz Kalemi", "Kaş Kalemi", "Kaş Farı", "Kaş Jeli", "Göz Bazı", "Göz Makyaj Temizleyici", "Kirpik Kıvırıcı"]
+        },
+        {
+          "name": "Vücut Bakımı",
+          "items": ["Vücut Losyonu", "Vücut Yağı", "Vücut Kremi", "Vücut Peelingi", "El Kremi", "Ayak Kremi", "Selülit Kremi", "Çatlak Kremi", "Masaj Yağı", "Vücut Spreyi"]
+        },
+        {
+          "name": "Erkek Bakım",
+          "items": ["Tıraş Köpüğü", "Tıraş Jeli", "Tıraş Bıçağı", "Tıraş Makinesi", "Tıraş Sonrası Losyon", "Erkek Parfümü", "Erkek Deodorantı", "Sakal Yağı", "Saç Şekillendirici", "Yüz Temizleyici"]
+        },
+        {
+          "name": "Kore Kozmetiği",
+          "items": ["BB Krem", "CC Krem", "Yüz Maskesi", "Göz Maskesi", "Cilt Temizleyici", "Nemlendirici", "Serum", "Güneş Kremi", "Tonik", "Leke Kremi"]
+        }
+      ]
+    },
+    {
+      "name": "Ayakkabı & Çanta",
+      "subCategories": [
+        {
+          "name": "Kadın Ayakkabı",
+          "items": ["Topuklu", "Spor Ayakkabı", "Babet", "Sandalet", "Bot", "Çizme", "Mokasen", "Terlik", "Loafer", "Platform Ayakkabı"]
+        },
+        {
+          "name": "Çanta",
+          "items": ["Omuz Çantası", "Sırt Çantası", "El Çantası", "Cüzdan", "Seyahat Çantası", "Clutch", "Çapraz Çanta", "Postacı Çantası", "Laptop Çantası", "Plaj Çantası"]
+        },
+        {
+          "name": "Erkek Ayakkabı",
+          "items": ["Spor Ayakkabı", "Günlük Ayakkabı", "Klasik Ayakkabı", "Bot", "Mokasen", "Terlik", "Sandalet", "Sneaker", "Yürüyüş Ayakkabısı", "Çizme"]
+        },
+        {
+          "name": "Valiz & Seyahat Çantası",
+          "items": ["Büyük Boy Valiz", "Orta Boy Valiz", "Kabin Boy Valiz", "Seyahat Çantası", "Sırt Çantası", "El Çantası", "Kilitli Valiz", "Çocuk Valizi", "Set Valiz", "Tekerlekli Çanta"]
+        },
+        {
+          "name": "Özel Gün Çantaları",
+          "items": ["Gece Çantası", "Abiye Çanta", "Nikah Çantası", "Düğün Çantası", "Parti Çantası", "Balık Abiye Çanta", "Saten Çanta", "Taşlı Çanta", "Zincir Askılı Çanta", "Portföy Çanta"]
+        },
+        {
+          "name": "Spor & Outdoor Çantalar",
+          "items": ["Spor Çantası", "Fitness Çantası", "Yoga Çantası", "Kamp Çantası", "Trekking Çantası", "Balıkçı Çantası", "Av Çantası", "Bisiklet Çantası", "Koşu Çantası", "Spor Ayakkabı Çantası"]
+        },
+        {
+          "name": "Moda & Trend Ayakkabılar",
+          "items": ["Platform Ayakkabı", "Dolgu Topuk", "Stiletto", "Sneaker", "Sandalet", "Babet", "Terlik", "Bootie", "BTN", "Deri Ayakkabı"]
+        },
+        {
+          "name": "Lüks & Designer Ayakkabılar",
+          "items": ["Lüks Topuklu Ayakkabı", "Lüks Spor Ayakkabı", "Lüks Bot", "Lüks Çizme", "Lüks Sandalet", "Lüks Babet", "Lüks Terlik", "Lüks Mokasen", "Lüks Loafer", "Lüks Platform Ayakkabı"]
+        },
+        {
+          "name": "Çocuk Ayakkabıları",
+          "items": ["Bebek Ayakkabısı", "Kız Çocuk Ayakkabısı", "Erkek Çocuk Ayakkabısı", "Spor Ayakkabı", "Bot", "Çizme", "Sandalet", "Babet", "Terlik", "Sneaker"]
+        },
+        {
+          "name": "Ayakkabı Bakım Ürünleri",
+          "items": ["Ayakkabı Fırçası", "Ayakkabı Boyası", "Ayakkabı Cilası", "Ayakkabı Spreyi", "Ayakkabı Parlatıcı", "Ayakkabı Deodorantı", "Ayakkabı Koruyucu", "Ayakkabı Yastığı", "Ayakkabı Tabanı", "Ayakkabı Koku Giderici"]
+        }
+      ]
+    },
+    {
+      "name": "Elektronik",
+      "subCategories": [
+        {
+          "name": "Telefon",
+          "items": ["Akıllı Telefon", "Kılıf", "Şarj Aleti", "Ekran Koruyucu", "Kulaklık", "Bluetooth Hoparlör", "Powerbank", "Akıllı Saat", "Cep Telefonu Standı", "Telefon Lens"]
+        },
+        {
+          "name": "Bilgisayar",
+          "items": ["Laptop", "Tablet", "Monitör", "Klavye & Mouse", "Harici Disk", "Yazıcı", "Oyun Bilgisayarı", "Bilgisayar Aksesuarları", "Webcam", "Grafik Tablet"]
+        },
+        {
+          "name": "Televizyon & Ses Sistemleri",
+          "items": ["LED TV", "OLED TV", "Smart TV", "Ev Sinema Sistemi", "Soundbar", "Bluetooth Hoparlör", "Kulaklık", "Radyo", "Ses Sistemi", "DVD Oynatıcı"]
+        },
+        {
+          "name": "Küçük Ev Aletleri",
+          "items": ["Elektrikli Süpürge", "Mikser", "Blender", "Kahve Makinesi", "Çay Makinesi", "Mutfak Robotu", "Tost Makinesi", "Su Isıtıcı", "Ütü", "Saç Kurutma Makinesi"]
+        },
+        {
+          "name": "Beyaz Eşya",
+          "items": ["Buzdolabı", "Çamaşır Makinesi", "Bulaşık Makinesi", "Fırın", "Mikrodalga Fırın", "Klima", "Vantilatör", "Derin Dondurucu", "Kurutma Makinesi", "Ankastre Set"]
+        },
+        {
+          "name": "Oyun Konsolları & Aksesuarlar",
+          "items": ["PlayStation", "Xbox", "Nintendo Switch", "Oyun Konsolu Aksesuarları", "Oyun Kolu", "Oyun Direksiyonu", "Oyun Kulaklığı", "VR Gözlük", "Oyun Bilgisayarı", "Oyun Monitörü"]
+        },
+        {
+          "name": "Fotoğraf & Kamera",
+          "items": ["Dijital Fotoğraf Makinesi", "Aksiyon Kamerası", "Kamera", "Drone", "Fotoğraf Makinesi Lens", "Tripod", "Hafıza Kartı", "Kamera Aksesuarları", "Fotoğraf Çerçevesi", "Video Kamera"]
+        },
+        {
+          "name": "Giyilebilir Teknoloji",
+          "items": ["Akıllı Saat", "Akıllı Bileklik", "VR Gözlük", "Akıllı Gözlük", "Fitness Takip Cihazı", "Akıllı Yüzük", "Akıllı Kıyafetler", "Akıllı Ayakkabı", "Giyilebilir Kamera", "Giyilebilir Ekran"]
+        },
+        {
+          "name": "Ev Güvenlik Sistemleri",
+          "items": ["Güvenlik Kamerası", "Alarm Sistemi", "Akıllı Kapı Zili", "Akıllı Kilit", "Bebek Monitörü", "Duman Dedektörü", "Gaz Dedektörü", "Su Baskını Sensörü", "Güvenlik Sensörü", "Akıllı Ev Otomasyonu"]
+        },
+        {
+          "name": "Aksesuarlar & Kablosuz Ürünler",
+          "items": ["Bluetooth Hoparlör", "Powerbank", "Kablosuz Şarj Cihazı", "Kablosuz Kulaklık", "Kablosuz Mouse", "Kablosuz Klavye", "Kablosuz Router", "Kablosuz Adaptör", "Kablosuz Şarj Standı", "Kablosuz Oyun Kolu"]
+        }
+      ]
+    },
+    {
+      "name": "Spor & Outdoor",
+      "subCategories": [
+        {
+          "name": "Spor Giyim",
+          "items": ["Eşofman", "Tişört", "Tayt", "Sweatshirt", "Spor Şort", "Spor Sütyeni", "Koşu Kıyafetleri", "Fitness BTN", "Yoga Kıyafetleri", "Spor Ceket"]
+        },
+        {
+          "name": "Outdoor",
+          "items": ["Kamp Malzemeleri", "Dağcılık", "Kayak", "Balıkçılık", "Trekking", "Outdoor Ayakkabı", "Çadır", "Uyku Tulumu", "Sırt Çantası", "Outdoor Giyim"]
+        },
+        {
+          "name": "Fitness & Egzersiz",
+          "items": ["Dumbell", "Ağırlık Plakası", "Fitness Matı", "Direnç Bandı", "Atlama İpi", "Pilates Topu", "Yoga Bloğu", "Koşu Bandı", "Egzersiz Bisikleti", "Fitness Eldiveni"]
+        },
+        {
+          "name": "Spor Ekipmanları",
+          "items": ["Tenis Raketi", "Futbol Topu", "Basketbol Topu", "Voleybol Topu", "Badminton Seti", "Golf Seti", "Kaykay", "Botan Özalp", "Havuz Malzemeleri", "Sörf Tahtası"]
+        },
+        {
+          "name": "Yüzme & Dalış",
+          "items": ["Mayo", "Bikini", "Yüzücü Gözlüğü", "Yüzme Şapkası", "Şnorkel", "Dalış Elbisesi", "Dalış Maskesi", "Palet", "Yüzme Tahtası", "Havuz Terliği"]
+        },
+        {
+          "name": "Bisiklet & Scooter",
+          "items": ["Dağ Bisikleti", "Yol Bisikleti", "Katlanır Bisiklet", "Elektrikli Bisiklet", "Scooter", "Elektrikli Scooter", "Bisiklet Aksesuarları", "Bisiklet Kaskı", "Bisiklet Kilidi", "Bisiklet Pompası"]
+        },
+        {
+          "name": "Kış Sporları",
+          "items": ["Kayak", "Snowboard", "Kış Giyim", "Kayak Botu", "Snowboard Botu", "Kayak Gözlüğü", "Kayak Kaskı", "Kış Eldiveni", "Termal İçlik", "Kış Spor Aksesuarları"]
+        },
+        {
+          "name": "Spor Besinleri & Takviyeler",
+          "items": ["Protein Tozu", "Amino Asit", "Kreatin", "Pre-Workout", "Vitamin", "Mineral", "Enerji Barı", "Karbonhidrat Tozu", "Glutamin", "Balık Yağı"]
+        },
+        {
+          "name": "Spor Çantaları",
+          "items": ["Spor Çantası", "Fitness Çantası", "Yoga Çantası", "Kamp Çantası", "Trekking Çantası", "Balıkçı Çantası", "Av Çantası", "Bisiklet Çantası", "Koşu Çantası", "Spor Ayakkabı Çantası"]
+        },
+        {
+          "name": "Spor & Outdoor Aksesuarları",
+          "items": ["Spor Gözlüğü", "Spor Saati", "Spor Bandı", "Teri Emici Bant", "Egzersiz El Bandı", "Outdoor El Feneri", "Outdoor Düdük", "Trekking Bastonu", "Kamp Isıtıcı", "Outdoor Mutfak Seti"]
+        }
+      ]
+    }
+  ]
+  
