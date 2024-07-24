@@ -61,9 +61,9 @@ const Header = () => {
             {/* Small Header for Mobile */}
             <div className="flex items-center justify-between py-4">
               <div className="flex items-center space-x-4">
-                <User className="text-gray-500" size={24} />
-                <Heart className="text-gray-500" size={24} />
-                <ShoppingCart className="text-gray-500" size={24} />
+                <User onClick={()=> navigate("/giris")} className="text-gray-500" size={24} />
+                <Heart onClick={()=> navigate("/giris")} className="text-gray-500" size={24} />
+                <ShoppingCart onClick={()=> navigate("/giris")} className="text-gray-500" size={24} />
               </div>
             </div>
           </div>
