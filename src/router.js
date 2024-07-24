@@ -16,12 +16,13 @@ const router = createBrowserRouter([{
         {
             path:"/product-detail",
             element:<ProductDetail/>
-        },
-        {
-            path:"*",
-            element:<NotFound/>
         }
     ]
-}])
+},
+{
+    path:"*",
+    element:<NotFound/>
+}
+])
 
 export default router
