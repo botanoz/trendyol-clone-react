@@ -61,7 +61,7 @@ MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için \`LICENSE\` do
 
 ## İletişim
 
-Adınız - [botanozalp@gmail.com](mailto:botanozalp@gmail.com)
+ [botanozalp@gmail.com](mailto:botanozalp@gmail.com)
 
 Demo : [https://trendyol-clone-react.vercel.app/](https://trendyol-clone-react.vercel.app/)
 
