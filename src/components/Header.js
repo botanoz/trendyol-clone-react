@@ -35,22 +35,22 @@ const Header = () => {
                 onMouseLeave={() => setShowLoginOptions(false)}
               >
                 <User className="text-gray-500 group-hover:text-orange-500 mr-1" size={24} />
-                <span className="group-hover:text-orange-500">Giriş Yap</span>
+                <span onClick={()=> navigate("/giris")} className="group-hover:text-orange-500">Giriş Yap</span>
                 <ChevronDown className="text-gray-500 group-hover:text-orange-500 ml-1" size={16} />
                 {showLoginOptions && (
                   <div className="absolute top-full right-0 bg-white border border-gray-200 rounded-sm shadow-md py-2 w-32 z-50">
                     <a href="/giris" className="block px-4 py-2 hover:bg-gray-100">Giriş Yap</a>
-                    <a href="/uye-ol" className="block px-4 py-2 hover:bg-gray-100">Üye Ol</a>
+                    <a href="/giris" className="block px-4 py-2 hover:bg-gray-100">Üye Ol</a>
                   </div>
                 )}
               </div>
               <div className="flex items-center cursor-pointer group">
                 <Heart className="text-gray-500 group-hover:text-orange-500 mr-1" size={24} />
-                <span className="group-hover:text-orange-500">Favorilerim</span>
+                <span onClick={()=> navigate("/giris")} className="group-hover:text-orange-500">Favorilerim</span>
               </div>
               <div className="flex items-center cursor-pointer group">
                 <ShoppingCart className="text-gray-500 group-hover:text-orange-500 mr-1" size={24} />
-                <span className="group-hover:text-orange-500">Sepetim</span>
+                <span onClick={()=> navigate("/giris")} className="group-hover:text-orange-500">Sepetim</span>
               </div>
             </div>
           </div>
