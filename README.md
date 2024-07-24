@@ -63,7 +63,7 @@ MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için \`LICENSE\` do
 
 Adınız - [botanozalp@gmail.com](mailto:botanozalp@gmail.com)
 
-Proje Linki: [https://github.com/botanoz/trendyol-clone-react.git](https://github.com/botanoz/trendyol-clone-react.git)
+Demo : [https://trendyol-clone-react.vercel.app/](https://trendyol-clone-react.vercel.app/)
 
 ## Teşekkürler
 
